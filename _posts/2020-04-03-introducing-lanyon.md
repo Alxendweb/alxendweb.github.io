@@ -10,6 +10,11 @@ title: ''
     wangs8@sustech.edu.cn
   </div>
 </div>
+<style>
+  h3 {
+    margin-bottom: 10px;
+  }
+</style>
 
 ### About me
 ---
