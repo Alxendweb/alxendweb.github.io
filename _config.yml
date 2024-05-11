@@ -4,8 +4,7 @@ title:               'Sai Wang'
 tagline:             'A Jekyll theme'
 description:         'tangle'
 url:                 http://alxendweb.github.io
-baseurl:             ''
 paginate:            5
-permalink:           pretty
+
 
 
