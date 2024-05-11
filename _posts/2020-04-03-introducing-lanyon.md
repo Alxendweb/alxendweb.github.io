@@ -2,7 +2,13 @@
 layout: post
 title: ''
 ---
-![Sai Wang](public/personal_image.jpg){: .personal-image } neisfd
+<div class="image-text-container">
+  <img src="public/personal_image.jpg" alt="Sai Wang" class="personal-image">
+  <div class="text-content">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+  </div>
+</div>
+
 
 
 
