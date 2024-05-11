@@ -134,6 +134,7 @@ h1, h2, h3, h4, h5, h6 {
 .personal-image {
   width: 100px; /* 控制图片宽度 */
   height: auto; /* 保持图片高度自适应 */
+  border-radius: 80%;
   margin-right: 20px; /* 右侧留出一定的间距 */
 }
 
