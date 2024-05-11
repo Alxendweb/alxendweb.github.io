@@ -1,8 +1,12 @@
-# 站点设置
+# Site
 title: Home
-description: personalized web
-url: "https://alxendweb.github.io"
-#repository: "你的用户名/你的仓库名"
+subtitle: ''
+description: ''
+keywords:
+author: Sai Wang
+language: en
+timezone: ''
+
 
 # 构建设置
 markdown: kramdown
