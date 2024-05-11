@@ -124,11 +124,23 @@ h1, h2, h3, h4, h5, h6 {
     display: none;
   }
 }
+/*左边照片右边文字*/
+
+.image-text-container {
+  display: flex; /* 设置为弹性布局，使得图片和文字并排显示 */
+  align-items: center; /* 垂直居中对齐 */
+}
+
 .personal-image {
-  width: 150px;
-  height: 150px;
-  border-radius: 80%;
-  margin-right: 10px;
+  width: 100px; /* 控制图片宽度 */
+  height: auto; /* 保持图片高度自适应 */
+  margin-right: 20px; /* 右侧留出一定的间距 */
+}
+
+.text-content {
+  flex: 1; /* 让文字内容占据剩余空间 */
+  font-size: 14px; /* 控制文字大小 */
+  line-height: 1.5; /* 控制行高 */
 }
 
 /*
