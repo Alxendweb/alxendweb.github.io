@@ -6,3 +6,6 @@ author:
   email: 你的邮箱
   github: 你的GitHub用户名
   # 可以添加更多社交链接，如Twitter, LinkedIn等
+
+
+theme: jekyll-theme-minimal
