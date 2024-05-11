@@ -16,9 +16,9 @@ header_pages:
   - about.md
 
 # 作者信息
-author:
-  name: Sai Wang
-  email: wangs8@sustech.edu.cn
+#author:
+ # name: Sai Wang
+ # email: wangs8@sustech.edu.cn
   #twitter: 你的Twitter账号
 
 # 社交媒体链接
