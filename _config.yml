@@ -10,8 +10,3 @@ theme: minima
 plugins:
   - jekyll-fee
 
-
-
-
-# Google Analytics (可选)
-google_analytics: UA-你的跟踪码
