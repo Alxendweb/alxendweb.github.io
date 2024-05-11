@@ -5,6 +5,6 @@ tagline:             'A Jekyll theme'
 description:         'tangle'
 url:                 http://alxendweb.github.io
 paginate:            4
-
+permalink:           pretty
 
 
