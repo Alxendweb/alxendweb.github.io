@@ -10,14 +10,11 @@ permalink:           pretty
 
 # About/contact
 author: ''
-  name:     ''         
-  url:   ''            
-  email:  ''           
+  name: ''         
+   url: ''            
+ email: ''           
 
 # Gems
 plugins:
   - jekyll-paginate
 
-# Custom vars
-version:             1.5.0
-google_analytics_id: 2024-5
