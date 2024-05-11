@@ -2,11 +2,10 @@
 title: Homepage
 description: personalized web
 url: "https://alxendweb.github.io"
-repository: "你的用户名/你的仓库名"
+#repository: "你的用户名/你的仓库名"
 
 # 构建设置
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-fee
+
 
