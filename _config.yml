@@ -1,15 +1,6 @@
-# Site
-title: Home
-subtitle: ''
-description: ''
-keywords:
-author: ''
-language: en
-timezone: ''
-
 
 # Setup
-title:               Lanyon
+title:               Home
 tagline:             'A Jekyll theme'
 description:         ''
 url:                 http://alxendweb.github.io
@@ -18,10 +9,10 @@ paginate:            5
 permalink:           pretty
 
 # About/contact
-author:
-  name:              
-  url:               
-  email:             
+author: ''
+  name:     ''         
+  url:   ''            
+  email:  ''           
 
 # Gems
 plugins:
@@ -29,4 +20,4 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+google_analytics_id: 2024-5
