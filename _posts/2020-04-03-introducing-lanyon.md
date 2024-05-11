@@ -10,11 +10,14 @@ title: ''
     wangs8@sustech.edu.cn
   </div>
 </div>
-
+<style>
+  h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+</style>
 ### About me
 ---
-
-
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Built on Poole
