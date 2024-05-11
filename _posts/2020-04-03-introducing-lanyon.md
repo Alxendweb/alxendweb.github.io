@@ -16,6 +16,9 @@ hr {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+h3 {
+  margin-top: 10px;
+}
 </style>
 
 ### About me
