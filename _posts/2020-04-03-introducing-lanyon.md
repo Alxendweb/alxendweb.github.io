@@ -6,6 +6,7 @@ title: ''
   <img src="public/personal_image.jpg" alt="Sai Wang" class="personal-image">
   <div class="text-content">
     Sai Wang (王赛) <br> 
+    Postdoc at Southern University of Science and Technology
     wangs8@sustech.edu.cn
   </div>
 </div>
