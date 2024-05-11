@@ -5,11 +5,12 @@ title: ''
 <div class="image-text-container">
   <img src="public/personal_image.jpg" alt="Sai Wang" class="personal-image">
   <div class="text-content">
-    Sai Wang (王赛) <br> 
-    Postdoc at  <a href="https://www.sustech.edu.cn">Sustech</a><br>
+    <strong>Sai Wang (王赛)</strong> <br> 
+    Postdoc at <a href="https://www.sustech.edu.cn">Sustech</a><br>
     wangs8@sustech.edu.cn
   </div>
 </div>
+
 <style>
 hr {
   margin-top: 10px;
