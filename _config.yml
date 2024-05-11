@@ -34,8 +34,8 @@ paginate_path: "/blog/page:num/"
 header_pages:
   - index.md
   - about.md
-footer_pages:
-  - privacy.md
+#footer_pages:
+  #- privacy.md
 
 # Google Analytics (可选)
 google_analytics: UA-你的跟踪码
