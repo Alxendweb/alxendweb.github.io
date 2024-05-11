@@ -11,9 +11,10 @@ title: ''
   </div>
 </div>
 <style>
-  h3 {
-    margin-bottom: 10px;
-  }
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 </style>
 
 ### About me
