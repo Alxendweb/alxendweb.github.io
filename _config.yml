@@ -1,57 +1,41 @@
-# 网站基本信息
-title: 你的网站名称
-tagline: 一句吸引人的标语
-description: >- # 使用">-"保持文本格式
-  这里是你的网站描述，可以是几句话介绍网站的主要内容或目标。
-logo: /assets/images/logo.png # 你的logo图片路径
+# 站点设置
+title: 你的站点标题
+description: 你的站点描述
+url: "https://你的用户名.github.io"
+repository: "你的用户名/你的仓库名"
+
+# 构建设置
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# 导航栏菜单
+header_pages:
+  - index.md
+  - about.md
 
 # 作者信息
 author:
   name: 你的名字
-  avatar: /assets/images/avatar.jpg # 个人头像路径
-  bio: >- 
-    简短的个人简介。
-  location: "地球某处"
-  links:
-    - label: "GitHub"
-      icon: "favicon.ico"
-      url: "https://github.com/yourusername"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/yourusername"
+  email: 你的邮箱
+  twitter: 你的Twitter账号
 
 # 社交媒体链接
-social_links:
-  twitter: yourusername
-  github: yourusername
-  linkedin: yourfullname # 使用LinkedIn的全名链接
-  email: mailto:youremail@example.com
+twitter_username: 你的Twitter账号
+github_username: 你的GitHub账号
+linkedin_username: 你的LinkedIn账号
 
-# 构建设置
-url: "https://yourwebsite.com" # 你的网站地址
-baseurl: "/" # 如果网站部署在子路径上，这里填写子路径
-repository: "yourusername/your-repo-name" # 你的GitHub仓库地址，便于Fork和Star
-timezone: Asia/Shanghai # 设置时区
-permalink: pretty # 友好的URL格式
-
-# 插件与功能
-plugins:
-  - jekyll-seo-tag # SEO优化插件
-  - jekyll-paginate # 分页插件
-  - jekyll-sitemap # 站点地图插件
-
-paginate: 5 # 每页文章数量
+# 分页设置 (可选)
+paginate: 5
 paginate_path: "/blog/page:num/"
 
-# 默认语言
-#lang: zh-CN
+# 自定义头部和底部 (可选)
+header_pages:
+  - index.md
+  - about.md
+footer_pages:
+  - privacy.md
 
 # Google Analytics (可选)
-google_analytics: UA-12345678-9
-
-# Disqus评论系统（可选）
-disqus:
-  shortname: your-disqus-shortname
-
-
-theme: jekyll-theme-minimal
+google_analytics: UA-你的跟踪码
