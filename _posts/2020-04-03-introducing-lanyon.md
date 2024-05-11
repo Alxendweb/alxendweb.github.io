@@ -17,7 +17,7 @@ hr {
   margin-bottom: 10px;
 }
 h3 {
-  margin-top: 10px;
+  margin-top: 5px;
 }
 </style>
 
