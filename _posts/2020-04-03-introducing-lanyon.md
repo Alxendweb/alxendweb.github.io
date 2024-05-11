@@ -5,7 +5,8 @@ title: ''
 <div class="image-text-container">
   <img src="public/personal_image.jpg" alt="Sai Wang" class="personal-image">
   <div class="text-content">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+    Sai Wang (王赛) <br> 
+    wangs8@sustech.edu.cn
   </div>
 </div>
 
