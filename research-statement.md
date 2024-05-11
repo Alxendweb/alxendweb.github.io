@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research Statement
-permalink: /research-statement/
 ---
 
 # Research Statement
@@ -10,4 +9,4 @@ permalink: /research-statement/
 
 ## 版本信息
 
-当前版本: {{ site.version }}
+
