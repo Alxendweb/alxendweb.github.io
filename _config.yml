@@ -14,7 +14,7 @@ author:
   location: "地球某处"
   links:
     - label: "GitHub"
-      icon: "fab fa-github"
+      icon: "favicon.ico"
       url: "https://github.com/yourusername"
     - label: "Twitter"
       icon: "fab fa-twitter"
