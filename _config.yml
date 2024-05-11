@@ -8,4 +8,5 @@ url: "https://alxendweb.github.io"
 markdown: kramdown
 theme: minima
 
-
+sass:
+    sass_dir: assets
