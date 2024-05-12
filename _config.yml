@@ -4,10 +4,8 @@ title:               'Sai Wang'
 tagline:             'Academic Website'
 description:         ' '
 url:                 alxendweb.github.io
-paginate:            4
-#permalink:           pretty
+paginate:            1
+permalink:           pretty
 
 #index.html
-# Gems
-plugins:
-  - jekyll-paginate
+
