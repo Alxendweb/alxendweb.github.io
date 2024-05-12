@@ -48,8 +48,8 @@ body {
 }
 
 html {
-  font-family: "Trebuchet MS",Calibri;
-  font-size: 12px;
+  font-family: Calibri,"Trebuchet MS";
+  font-size: 10px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
