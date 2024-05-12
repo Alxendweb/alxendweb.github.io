@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 
 ---
 <div class="image-text-container">
   <img src="public/personal_image.jpg" alt="Sai Wang" class="personal-image">
