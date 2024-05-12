@@ -2,7 +2,6 @@
 layout: post
 title: ''
 data: 2024-05-12
-show_related_posts: true
 ---
 <div class="image-text-container">
   <img src="public/personal_image.jpg" alt="Sai Wang" class="personal-image">
@@ -67,4 +66,4 @@ My research interest lies in the broad field of nonlinear optimization with appl
 4. **S. Wang** and Y. Gong, "Convergence Analysis of Cloud-Aided Federated Edge Learning on Non-IID Data", 2022 IEEE 23rd International Workshop on Signal Processing Advances in Wireless Communication (SPAWC), Oulu, Finland, pp. 1-5, 2022.
   
 <!-- references -->
- Updated on <span id="post-date">{{ page.date | date: "%Y-%m" }}</span>
+ Updated on {{ page.date | date: "%Y-%m" }}
