@@ -58,7 +58,7 @@ My research interest lies in the broad field of nonlinear optimization with appl
 ---
 <!-- references -->
 
-- □ **S. Wang**, Y. Gong, X. Li, and Q. Li, "Integrated Sensing, Communication and Computation Over-the-Air: Beampattern Design for Wireless Sensor Networks," IEEE Internet of Things Journal, vol. 11, no. 6, pp. 9681-9692, March 2024.
+□ **S. Wang**, Y. Gong, X. Li, and Q. Li, "Integrated Sensing, Communication and Computation Over-the-Air: Beampattern Design for Wireless Sensor Networks," IEEE Internet of Things Journal, vol. 11, no. 6, pp. 9681-9692, March 2024.
 - **S. Wang**, X. Li, and Y. Gong, "Energy-Efficient Task Offloading and Resource Allocation for Delay-Constrained Edge-Cloud Computing Networks," IEEE Transactions on Green Communications and Networking, vol. 8, no. 1, pp. 514-524, March 2024.
 - **S. Wang** and Y. Gong, "Fast-Convergence Federated Edge Learning via Bilevel Optimization," 2023 28th Asia Pacific Conference on Communications (APCC), Sydney, Australia, pp. 87-92, 2023.
 - **S. Wang** and Y. Gong, "Joint Power Control and Task Offloading in Collaborative Edge–Cloud Computing Networks," IEEE Internet of Things Journal, vol. 10, no. 17, pp. 15197-15208, Sept. 2023.
