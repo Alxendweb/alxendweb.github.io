@@ -26,7 +26,7 @@ h3 {
 I am a postdoctoral researcher in [Electrical Engineering](https://eee.sustech.edu.cn) and [Mathmatics](https://math.sustech.edu.cn) since January 2024.
 ### Education
 ---
-* Ph.D in Applied Mathematics (2023.12)<br>
+**Ph.D in Applied Mathematics** (2023.12)<br>
   Southern University of Science and Technology, Shenzhen, China
 * M.S  in Information and Telecommunication Engineering (2019.06)<br>
   Soongsil University, Seoul, South Korea
