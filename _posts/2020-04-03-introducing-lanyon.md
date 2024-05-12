@@ -38,11 +38,11 @@ I am a postdoctoral researcher in [Electrical Engineering](https://eee.sustech.e
 ### Research Interest
 ---
 My research interest lies in the broad field of nonlinear optimization with applications in machine learning and wireless communications.
-* Nonlinear Optimization <br>
+* **Nonlinear Optimization** <br>
   Nonlinear programming; Nonlinear convex optimization; Complex-variable optimization
-* Machine Learning<br>
+* **Machine Learning** <br>
   Federated Learning; Personalized Federated Learning; Large Language Models
-* Wireless Communication <br>
+* **Wireless Communications** <br>
   MIMO Beamforming Design; Edge-cloud Computing; Integrated Sensing and Communication; Wireless Sensor Network
 
 ### Recent Work
