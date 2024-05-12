@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ''
-data:2024-05-12
+data: 2024-05-12
 show_related_posts: true
 ---
 <div class="image-text-container">
