@@ -23,19 +23,17 @@ h3 {
 
 ### About me
 ---
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
-
+I am a postdoctoral researcher in [Electrical Engineering](https://eee.sustech.edu.cn) and [Mathmatics](https://math.sustech.edu.cn) since January 2024.
 ### Education
 ---
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
+* Ph.D in Applied Mathematics (2023.12)<br>
+  Southern University of Science and Technology, Shenzhen, China
+* M.S  in Information and Telecommunication Engineering (2019.06)<br>
+  Soongsil University, Seoul, South Korea
+* M.S in Information and Telecommunication Engineering (2019.06)<br>
+  Shandong University of Science and Technology, Qingdao, China
+* B.S in Communication Engineering (2016.06)<br>
+  Shandong University of Science and Technology, Qingdao, China
 ### Research Interest
 ---
 In addition to the features of Poole, Lanyon adds the following:
