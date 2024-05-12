@@ -9,3 +9,6 @@ permalink:           pretty
 
 #index.html
 
+# Gems
+plugins:
+  - jekyll-paginate
