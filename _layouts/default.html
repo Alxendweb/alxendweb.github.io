@@ -12,18 +12,20 @@
       right: 20px; /* Distance from right */
       width: 50px; /* Width of the block */
       height: 50px; /* Height of the block */
-      background-color: #007bff; /* Block background color */
+      background-color: transparent; /* Transparent background color */
       color: #fff; /* Text color */
       border-radius: 50%; /* Rounded shape */
       text-align: center; /* Center text horizontally */
       line-height: 50px; /* Center text vertically */
       font-size: 20px; /* Font size of the text */
       cursor: pointer; /* Change cursor to pointer on hover */
+      border: 2px solid #007bff; /* Border with color */
+      transition: background-color 0.3s ease; /* Smooth transition for hover effect */
     }
 
     /* Style for block hover effect */
     .floating-block:hover {
-      background-color: #0056b3; /* Darker background color on hover */
+      background-color: rgba(0, 123, 255, 0.5); /* Semi-transparent background color on hover */
     }
   </style>
 </head>
