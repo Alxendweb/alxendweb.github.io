@@ -23,7 +23,7 @@ h3 {
 }
 </style>
 
-### About me
+### About Me
 ---
 I am a postdoctoral researcher in [Electrical Engineering](https://eee.sustech.edu.cn) and [Mathmatics](https://math.sustech.edu.cn) since January 2024.
 ### Education
