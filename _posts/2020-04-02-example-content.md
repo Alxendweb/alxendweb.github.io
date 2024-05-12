@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content
+show_related_posts: false
 ---
 
 
