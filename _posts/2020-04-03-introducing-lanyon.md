@@ -13,7 +13,7 @@ title: ''
 
 <style>
 hr {
-  margin-top: 10px;
+  margin-top: 5px;
   margin-bottom: 10px;
 }
 h3 {
