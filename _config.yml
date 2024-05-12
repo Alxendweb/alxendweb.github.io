@@ -8,3 +8,6 @@ paginate:            1
 #permalink:           pretty
 
 #index.html
+# Gems
+plugins:
+  - jekyll-paginate
