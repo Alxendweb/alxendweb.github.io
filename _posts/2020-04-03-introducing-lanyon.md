@@ -1,6 +1,8 @@
 ---
 layout: post
 title: ''
+data:2024-05-12
+show_related_posts: true
 ---
 <div class="image-text-container">
   <img src="public/personal_image.jpg" alt="Sai Wang" class="personal-image">
