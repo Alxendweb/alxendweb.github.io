@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: #fff;
+  color: #000;
 }
 .sidebar-item {
   padding: 1rem;
@@ -237,7 +237,7 @@ a.sidebar-nav-item:focus {
   display: flex;
   align-items: center;
   padding: .25rem .75rem;
-  color: #000;
+  color: #fff;
   background-color: #fff;
   border-radius: .25rem;
   cursor: pointer;
