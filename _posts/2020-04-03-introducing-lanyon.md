@@ -48,8 +48,8 @@ My research interest lies in the broad field of nonlinear optimization with appl
 
 ### Recent Work
 ---
-<!--S. Wang and Y. Gong, "Nonlinear convex optimization: From relaxed proximal point algorithm to prediction correction method," Optimization, under review, 2024.--><br>
-<!--S. Wang and Y. Gong, "A Generalized Primal-Dual Correction Method for Saddle-Point Problems with the Nonlinear Coupling Operator," IEEE Control System Letters, under review, 2024.--><br>
+<!--S. Wang and Y. Gong, "Nonlinear convex optimization: From relaxed proximal point algorithm to prediction correction method," Optimization, under review, 2024.<br>
+S. Wang and Y. Gong, "A Generalized Primal-Dual Correction Method for Saddle-Point Problems with the Nonlinear Coupling Operator," IEEE Control System Letters, under review, 2024.--><br>
 
 
 ### Selected Publications
