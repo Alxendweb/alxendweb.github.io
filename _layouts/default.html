@@ -1,53 +1,81 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
+<head>
   {% include head.html %}
+  <style>
+    /* Style for the floating block */
+    .floating-block {
+      display: none; /* Initially hide the block */
+      position: fixed; /* Fixed position to stay at the bottom-right corner */
+      bottom: 20px; /* Distance from bottom */
+      right: 20px; /* Distance from right */
+      width: 50px; /* Width of the block */
+      height: 50px; /* Height of the block */
+      background-color: #007bff; /* Block background color */
+      color: #fff; /* Text color */
+      border-radius: 50%; /* Rounded shape */
+      text-align: center; /* Center text horizontally */
+      line-height: 50px; /* Center text vertically */
+      font-size: 20px; /* Font size of the text */
+      cursor: pointer; /* Change cursor to pointer on hover */
+    }
 
-  <body>
+    /* Style for block hover effect */
+    .floating-block:hover {
+      background-color: #0056b3; /* Darker background color on hover */
+    }
+  </style>
+</head>
 
-    {% include sidebar.html %}
+<body>
 
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+  {% include sidebar.html %}
+
+  <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
-          </h3>
-        </div>
-      </div>
-
-      <div class="container content">
-        {{ content }}
+  <div class="wrap">
+    <div class="masthead">
+      <div class="container">
+        <h3 class="masthead-title">
+          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+          <small>{{ site.tagline }}</small>
+        </h3>
       </div>
     </div>
 
-    <!-- Back to top button -->
-    <button class="back-to-top" onclick="backToTop()" title="Back to Top">Back to Top</button>
+    <div class="container content">
+      {{ content }}
+    </div>
+  </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+  <!-- Floating block -->
+  <div class="floating-block" onclick="backToTop()" title="Back to Top">
+    ↑ <!-- Text inside the block, usually an upward arrow or a chevron -->
+  </div>
 
-    <script src='{{ site.baseurl }}/public/js/script.js'></script>
-    <script>
-      // When the user scrolls down 20px from the top of the document, show the button
-      window.onscroll = function() { scrollFunction() };
+  <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-      function scrollFunction() {
-        var backToTopBtn = document.querySelector('.back-to-top');
-        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-          backToTopBtn.style.display = 'block';
-        } else {
-          backToTopBtn.style.display = 'none';
-        }
+  <script src='{{ site.baseurl }}/public/js/script.js'></script>
+  <script>
+    // When the user scrolls down 20px from the top of the document, show the block
+    window.onscroll = function() { scrollFunction() };
+
+    function scrollFunction() {
+      var floatingBlock = document.querySelector('.floating-block');
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        floatingBlock.style.display = 'block';
+      } else {
+        floatingBlock.style.display = 'none';
       }
+    }
 
-      // When the user clicks on the button, scroll to the top of the document
-      function backToTop() {
-        document.body.scrollTop = 0; // For Safari
-        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-      }
-    </script>
-  </body>
+    // When the user clicks on the block, scroll to the top of the document
+    function backToTop() {
+      document.body.scrollTop = 0; // For Safari
+      document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+    }
+  </script>
+</body>
+
 </html>
