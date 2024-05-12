@@ -5,6 +5,6 @@ tagline:             'Academic Website'
 description:         ' '
 url:                 alxendweb.github.io
 paginate:            1
-permalink:           pretty
+#permalink:           pretty
 
-index.html
+#index.html
