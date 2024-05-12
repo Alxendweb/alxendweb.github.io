@@ -49,15 +49,17 @@ My research interest lies in the broad field of nonlinear optimization with appl
 ### Recent Work
 ---
 <!-- sdfs-->
-- S. Wang and Y. Gong, "Nonlinear convex optimization: From relaxed proximal point algorithm to prediction correction method," Optimization, under review, 2024.<br>
-- S. Wang and Y. Gong, "A Generalized Primal-Dual Correction Method for Saddle-Point Problems with the Nonlinear Coupling Operator," IEEE Control System Letters, under review, 2024.
+- **S. Wang** and Y. Gong, "Nonlinear convex optimization: From relaxed proximal point algorithm to prediction correction method," Optimization, under review, 2024.<br>
+- **S. Wang** and Y. Gong, "A Generalized Primal-Dual Correction Method for Saddle-Point Problems with the Nonlinear Coupling Operator," IEEE Control System Letters, under review, 2024.
 <!-- sdfsd-->
 
 
 ### Selected Publications
 ---
-S. Wang, Y. Gong, X. Li, and Q. Li, "Integrated Sensing, Communication and Computation Over-the-Air: Beampattern Design for Wireless Sensor Networks," IEEE Internet of Things Journal, vol. 11, no. 6, pp. 9681-9692, March 2024<br>
-S. Wang, X. Li, and Y. Gong, "Energy-Efficient Task Offloading and Resource Allocation for Delay-Constrained Edge-Cloud Computing Networks," IEEE Transactions on Green Communications and Networking, vol. 8, no. 1, pp. 514-524, March 2024.<br>
-S. Wang and Y. Gong, "Fast-Convergence Federated Edge Learning via Bilevel Optimization," 2023 28th Asia Pacific Conference on Communications (APCC), Sydney, Australia, pp. 87-92, 2023.<br>
-S. Wang and Y. Gong, "Joint Power Control and Task Offloading in Collaborative Edge–Cloud Computing Networks," IEEE Internet of Things Journal, vol. 10, no. 17, pp. 15197-15208, Sept. 2023.<br>
-S. Wang and Y. Gong, "Convergence Analysis of Cloud-Aided Federated Edge Learning on Non-IID Data", 2022 IEEE 23rd International Workshop on Signal Processing Advances in Wireless Communication (SPAWC), Oulu, Finland, pp. 1-5, 2022.<br>
+<!-- sdfs-->
+- **S. Wang**, Y. Gong, X. Li, and Q. Li, "Integrated Sensing, Communication and Computation Over-the-Air: Beampattern Design for Wireless Sensor Networks," IEEE Internet of Things Journal, vol. 11, no. 6, pp. 9681-9692, March 2024<br>
+- **S. Wang**, X. Li, and Y. Gong, "Energy-Efficient Task Offloading and Resource Allocation for Delay-Constrained Edge-Cloud Computing Networks," IEEE Transactions on Green Communications and Networking, vol. 8, no. 1, pp. 514-524, March 2024.<br>
+- **S. Wang** and Y. Gong, "Fast-Convergence Federated Edge Learning via Bilevel Optimization," 2023 28th Asia Pacific Conference on Communications (APCC), Sydney, Australia, pp. 87-92, 2023.<br>
+- **S. Wang** and Y. Gong, "Joint Power Control and Task Offloading in Collaborative Edge–Cloud Computing Networks," IEEE Internet of Things Journal, vol. 10, no. 17, pp. 15197-15208, Sept. 2023.<br>
+- **S. Wang** and Y. Gong, "Convergence Analysis of Cloud-Aided Federated Edge Learning on Non-IID Data", 2022 IEEE 23rd International Workshop on Signal Processing Advances in Wireless Communication (SPAWC), Oulu, Finland, pp. 1-5, 2022.<br>
+<!-- sdfsd-->
