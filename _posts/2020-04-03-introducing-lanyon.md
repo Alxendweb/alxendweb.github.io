@@ -34,23 +34,25 @@ I am a postdoctoral researcher in [Electrical Engineering](https://eee.sustech.e
   Shandong University of Science and Technology, Qingdao, China
 * B.S in Communication Engineering (2016.06)<br>
   Shandong University of Science and Technology, Qingdao, China
+  
 ### Research Interest
 ---
-In addition to the features of Poole, Lanyon adds the following:
-
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
+My research interest lies in the broad field of nonlinear optimization with applications in machine learning and wireless communications.
+* Nonlinear Optimization <br>
+  Nonlinear programming; Nonlinear convex optimization; Complex-variable optimization
+* Machine Learning<br>
+  Federated Learning; Personalized Federated Learning; Large Language Models
+* Wireless Communication <br>
+  MIMO Beamforming Design; Edge-cloud Computing; Integrated Sensing and Communication; Wireless Sensor Network
 
 ### Selected Publications
 ---
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+S. Wang and Y. Gong, “Nonlinear convex optimization: From relaxed proximal point algorithm to prediction correction method,” Journal of Computational Mathematics, under review, 2023.<br>
+S. Wang and Y. Gong, “A Generalized Primal-Dual Correction Method for Saddle-Point Problems with the Nonlinear Coupling Operator,” IEEE Signal Processing Letters, under review, 2023.<br>
+S. Wang, Y. Gong, X. Li and Q. Li, ``Integrated Sensing, Communication and Computation Over-the-Air: Beampattern Design for Wireless Sensor Networks,'' IEEE Internet of Things Journal, early access, 2023, doi: 10.1109/JIOT.2023.3327117.<br>
+S. Wang, X. Li, and Y. Gong, ``Energy-Efficient Task Offloading and Resource Allocation for Delay-Constrained Edge-Cloud Computing Networks,'' IEEE Transactions on Green Communications and Networking, early access, 2023, doi: 10.1109/TGCN.2023.3306002.<br>
+S. Wang and Y. Gong, ``Joint Power Control and Task Offloading in Collaborative Edge–Cloud Computing Networks,'' IEEE Internet of Things Journal, vol. 10, no. 17, pp. 15197-15208, Sept. 2023.<br>
+S. Wang} and Y. Gong, ``Convergence Analysis of Cloud-Aided Federated Edge Learning on Non-IID Data'', 2022 IEEE 23rd International Workshop on Signal Processing Advances in Wireless Communication (SPAWC), Oulu, Finland, pp. 1-5, 2022.<br>
 
 ### Download
 
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
