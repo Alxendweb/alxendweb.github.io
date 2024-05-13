@@ -38,7 +38,7 @@ where $$\mathcal{X} \in \mathbb{R}^{n}$$ is a nonempty closed convex set, $$f: \
 
 
 \begin{equation}
-\min_{\mathbf{x} \in \mathcal{X}} \max_{\mathbf{y} \in \mathcal{Y}} \mathcal{L}(\mathbf{x}, \mathbf{y}) := f(\mathbf{x}) + \langle\mathbf{y}, \boldsymbol{\Phi}(\mathbf{x})\rangle - g(\mathbf{y})
+\min_{\mathbf{x} \in \mathcal{X}} \max_{\mathbf{y} \in \mathcal{Y}} \mathcal{L}(\mathbf{x}, \mathbf{y}) := f(\mathbf{x}) + \langle\mathbf{y}, \boldsymbol{\Phi}(\mathbf{x})\rangle - g(\mathbf{y}),
 \end{equation} 
 where $$\mathcal{X} \subseteq \mathbb{R}^{n}$$ and $$\mathcal{Y} \subseteq \mathbb{R}^{m}$$ are two closed convex sets. $$f: \mathcal{X} \rightarrow \mathbb{R}$$ and $$g: \mathcal{Y} \rightarrow \mathbb{R}$$ are two proper convex but not necessarily smooth functions. The nonlinear function $$\boldsymbol{\Phi}: \mathbb{R}^{n} \rightarrow \mathbb{R}^{m}$$ is both convex and continuously differentiable over $$\mathcal{X}$$.
 
