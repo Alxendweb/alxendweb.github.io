@@ -7,13 +7,8 @@ url:                 saiwang-neo.github.io
 paginate:            1
 permalink:           pretty
 
-kramdown:
-  math_engine: mathjax
 
-[markup.goldmark.renderer]
-  unsafe = true
-  [markup.goldmark.renderer.latex]
-    enabled = true
+math_engine: mathjax
 
 #index.html
 
