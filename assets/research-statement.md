@@ -25,7 +25,7 @@ title: Research Statement
 
 
 
-### Summary of nonlinear optimization
+### Summary of Nonlinear Optimization
 ---
 **The convex optimization problem with nonlinear inequality constraints**:<br>
 
