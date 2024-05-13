@@ -2,24 +2,49 @@
 layout: page
 title: Research Statement
 ---
-### Research Statement
-### About Me
----
-I am a postdoctoral researcher in [Electrical Engineering](https://eee.sustech.edu.cn) and [Mathmatics](https://math.sustech.edu.cn) since January 2024.
-### Education
----
-A concise summary of my academic profile follows:
-* **Ph.D in Applied Mathematics** (2023.12)<br>
-  Southern University of Science and Technology, Shenzhen, China
-* **M.S  in Information and Telecommunication Engineering** (2019.06)<br>
-  Soongsil University, Seoul, South Korea
-* **M.S in Information and Telecommunication Engineering** (2019.06)<br>
-  Shandong University of Science and Technology, Qingdao, China
-* **B.S in Communication Engineering** (2016.06)<br>
-  Shandong University of Science and Technology, Qingdao, China
-  
-### Research Interest
+### Research Experiences
+2024: Large Language Model, Efficient AI
+Technologies: pruning, knowledge distillation, quantization, and more for optimizing model size, inference speed, and resource utilization in AI systems.
+2022: Nonlinear convex optimization, Variational analysis
+Solving real-variable and complex-variable convex problems by using the proximal point algorithm, primal-dual method, and ADMM. These methods can achieve an O(1/t) convergence rate.
+2019: Edge-cloud network and federated learning, Task offloading, and resource allocation
+Aiming to reduce latency, energy consumption, and training error by optimizing task offloading, transmit power, number of epochs, and data allocation.
+2017: Underwater Wireless sensor network, Clustering algorithm
+In underwater wireless sensor networks, an energy-efficient clustering algorithm based on the Voronoi diagram is proposed for magnetic induction communications.
+2016: Wireless sensor network, Path planning
+Reducing latency and energy consumption by designing the optimal path for UAVs.
+###Summary of nonlinear optimization
+The convex optimization problem with nonlinear inequality constraints:
+$$
+\begin{aligned}
+\min\left{ f(\mathbf{x}) \mid \phi_{i}(\mathbf{x}) \leq 0, \mathbf{x} \in \mathcal{X}, i=1,\cdots,m\right}
+\end{aligned}\tag{1}
+$$
+where $\mathcal{X} \in \mathbb{R}^{n}$ is a nonempty closed convex set, $f: \mathbb{R}^{n} \rightarrow \mathbb{R}$ and $\phi_{i}: \mathbb{R}^{n} \rightarrow \mathbb{R} \ (i=1,\ldots,m)$ are proper and closed convex functions, and $\phi_{i} \ (i=1,\ldots,m)$ are continuously differentiable.
 
-#### 版本信息
+The saddle-point problem with a nonlinear coupling operator:
+
+$$
+\min_{\mathbf{x} \in \mathcal{X}} \max_{\mathbf{y} \in \mathcal{Y}} \mathcal{L}(\mathbf{x}, \mathbf{y}) := f(\mathbf{x}) + \langle\mathbf{y}, \boldsymbol{\Phi}(\mathbf{x})\rangle - g(\mathbf{y})\tag{2}
+$$
+where $\mathcal{X} \subseteq \mathbb{R}^{n}$ and $\mathcal{Y} \subseteq \mathbb{R}^{m}$ are two closed convex sets. $f: \mathcal{X} \rightarrow \mathbb{R}$ and $g: \mathcal{Y} \rightarrow \mathbb{R}$ are two proper convex but not necessarily smooth functions. The nonlinear function $\boldsymbol{\Phi}: \mathbb{R}^{n} \rightarrow \mathbb{R}^{m}$ is both convex and continuously differentiable over $\mathcal{X}$.
+
+The convex complex-variable matrix optimization problem:
+
+$$
+\begin{aligned}
+\min{ f(\mathbf{X}) \mid \phi_{i}(\mathbf{X}) \leq 0, \mathbf{X} \in \mathcal{X}, i=1,\cdots,p}
+\end{aligned}\tag{3}
+$$
+where $\mathcal{X} \subseteq \mathbb{C}^{m \times n}$ is a convex set and objective $f: \mathbb{C}^{m \times n} \rightarrow \mathbb{R}$ is convex. Constraint functions $\phi_{i}: \mathbb{C}^{m \times n} \rightarrow \mathbb{R} \ (i=1,\cdots,p)$ are convex and differentiable over $\mathcal{X}$.
+
+The separable convex optimization problem with nonlinear inequality constraints:
+
+$$
+\begin{aligned}
+\min\left{ f(\mathbf{x}) + g(\mathbf{y}) \mid \phi_{i}(\mathbf{x}) + \psi_{i}(\mathbf{y}) \leq 0, \mathbf{x} \in \mathcal{X}, \mathbf{y} \in \mathcal{Y}, i=1,\cdots,p\right}
+\end{aligned}\tag{4}
+$$
+where $\mathcal{X} \in \mathbb{R}^{n}$ and $\mathcal{Y} \in \mathbb{R}^{m}$ are two nonempty closed convex sets, $f: \mathbb{R}^{n} \rightarrow \mathbb{R}$, $\phi_{i}: \mathbb{R}^{n} \rightarrow \mathbb{R} \ (i=1,\ldots,p)$, $g: \mathbb{R}^{m} \rightarrow \mathbb{R}$ and $\psi_{i}: \mathbb{R}^{m} \rightarrow \mathbb{R} \ (i=1,\ldots,p)$ are proper and closed convex functions, and $\phi_{i}, \psi_{i} \ (i=1,\ldots,p)$ are continuously differentiable.
 
 
