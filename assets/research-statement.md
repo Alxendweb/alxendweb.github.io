@@ -27,30 +27,25 @@ title: Research Statement
 
 ### Summary of Nonlinear Optimization
 ---
-**The convex optimization problem with nonlinear inequality constraints**:<br>
-
+1. **The convex optimization problem with nonlinear inequality constraints**:<br>
 \begin{equation}
 \begin{aligned}\min \\{ f(\mathbf{x}) \mid \phi_{i}(\mathbf{x}) \leq 0, \mathbf{x} \in \mathcal{X}, i=1,\cdots,m \\}, \end{aligned}
 \end{equation}
 where $$\mathcal{X} \in \mathbb{R}^{n}$$ is a nonempty closed convex set, $$f: \mathbb{R}^{n} \rightarrow \mathbb{R}$$ and $$\phi_{i}: \mathbb{R}^{n} \rightarrow \mathbb{R} \ (i=1,\ldots,m)$$ are proper and closed convex functions, and $$\phi_{i} \ (i=1,\ldots,m)$$ are continuously differentiable.
 
-**The saddle-point problem with a nonlinear coupling operator**:<br>
-
-
+2. **The saddle-point problem with a nonlinear coupling operator**:<br>
 \begin{equation}
 \min_{\mathbf{x} \in \mathcal{X}} \max_{\mathbf{y} \in \mathcal{Y}} \mathcal{L}(\mathbf{x}, \mathbf{y}) := f(\mathbf{x}) + \langle\mathbf{y}, \boldsymbol{\Phi}(\mathbf{x})\rangle - g(\mathbf{y}),
 \end{equation} 
 where $$\mathcal{X} \subseteq \mathbb{R}^{n}$$ and $$\mathcal{Y} \subseteq \mathbb{R}^{m}$$ are two closed convex sets. $$f: \mathcal{X} \rightarrow \mathbb{R}$$ and $$g: \mathcal{Y} \rightarrow \mathbb{R}$$ are two proper convex but not necessarily smooth functions. The nonlinear function $$\boldsymbol{\Phi}: \mathbb{R}^{n} \rightarrow \mathbb{R}^{m}$$ is both convex and continuously differentiable over $$\mathcal{X}$$.
 
-**The convex complex-variable matrix optimization problem**:<br>
-
+3. **The convex complex-variable matrix optimization problem**:<br>
 \begin{equation}
 \min\\{ f(\mathbf{X}) \mid \phi_{i}(\mathbf{X}) \leq 0, \mathbf{X} \in \mathcal{X}, i=1,\cdots,p\\},
 \end{equation}
 where $$\mathcal{X} \subseteq \mathbb{C}^{m \times n}$$ is a convex set and objective $$f: \mathbb{C}^{m \times n} \rightarrow \mathbb{R}$$ is convex. Constraint functions $$\phi_{i}: \mathbb{C}^{m \times n} \rightarrow \mathbb{R} \ (i=1,\cdots,p)$$ are convex and differentiable over $$\mathcal{X}$$.
 
-**The separable convex optimization problem with nonlinear inequality constraints**:<br>
-
+4. **The separable convex optimization problem with nonlinear inequality constraints**:<br>
 \begin{equation}
 \begin{aligned}
 \min\\{ f(\mathbf{x}) + g(\mathbf{y}) \mid \phi_{i}(\mathbf{x}) + \psi_{i}(\mathbf{y}) \leq 0, \mathbf{x} \in \mathcal{X},\\ \mathbf{y} \in \mathcal{Y}, i=1,\cdots,p\\},
