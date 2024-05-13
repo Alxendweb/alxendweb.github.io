@@ -27,7 +27,7 @@ title: Research Statement
 
 ### Summary of Nonlinear Optimization
 ---
-**The convex optimization problem with nonlinear inequality constraints**:<br>
+**The convex optimization problem with nonlinear inequality constraints**:
 > \begin{equation}
 \begin{aligned}\min \\{ f(\mathbf{x}) \mid \phi_{i}(\mathbf{x}) \leq 0, \mathbf{x} \in \mathcal{X}, i=1,\cdots,m \\}, \end{aligned}
 \end{equation}
