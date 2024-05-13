@@ -31,7 +31,7 @@ title: Research Statement
 
 \begin{equation}
 \begin{aligned}\min \{ f(\mathbf{x}) \mid \phi_{i}(\mathbf{x}) \leq 0, \mathbf{x} \in \mathcal{X}, i=1,\cdots,m, \} \end{aligned}
-\end{equation}<br>
+\end{equation}
 where $\mathcal{X} \in \mathbb{R}^{n}$ is a nonempty closed convex set, $f: \mathbb{R}^{n} \rightarrow \mathbb{R}$ and $\phi_{i}: \mathbb{R}^{n} \rightarrow \mathbb{R} \ (i=1,\ldots,m)$ are proper and closed convex functions, and $\phi_{i} \ (i=1,\ldots,m)$ are continuously differentiable.
 
 **The saddle-point problem with a nonlinear coupling operator**:<br>
