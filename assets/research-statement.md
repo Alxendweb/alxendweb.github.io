@@ -52,7 +52,9 @@ where $$\mathcal{X} \subseteq \mathbb{C}^{m \times n}$$ is a convex set and obje
 **The separable convex optimization problem with nonlinear inequality constraints**:<br>
 
 \begin{equation}
-\min\\{ f(\mathbf{x}) + g(\mathbf{y}) \mid \phi_{i}(\mathbf{x}) + \psi_{i}(\mathbf{y}) \leq 0, \mathbf{x} \in \mathcal{X}, \mathbf{y} \in \mathcal{Y}, i=1,\cdots,p\\}
+\begin{aligned}
+\min\\{ f(\mathbf{x}) + g(\mathbf{y}) \mid \phi_{i}(\mathbf{x}) + \psi_{i}(\mathbf{y}) \leq 0, \mathbf{x} \in \mathcal{X},\\ \mathbf{y} \in \mathcal{Y}, i=1,\cdots,p\\},
+\end{aligned}
 \end{equation}
 where $$\mathcal{X} \in \mathbb{R}^{n}$$ and $$\mathcal{Y} \in \mathbb{R}^{m}$$ are two nonempty closed convex sets, $$f: \mathbb{R}^{n} \rightarrow \mathbb{R}$$, $$\phi_{i}: \mathbb{R}^{n} \rightarrow \mathbb{R} \ (i=1,\ldots,p)$$, $$g: \mathbb{R}^{m} \rightarrow \mathbb{R}$$ and $$\psi_{i}: \mathbb{R}^{m} \rightarrow \mathbb{R} \ (i=1,\ldots,p)$$ are proper and closed convex functions, and $$\phi_{i}, \psi_{i} \ (i=1,\ldots,p)$$ are continuously differentiable.
 
