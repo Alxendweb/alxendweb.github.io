@@ -10,6 +10,10 @@ permalink:           pretty
 kramdown:
   math_engine: mathjax
 
+[markup.goldmark.renderer]
+  unsafe = true
+  [markup.goldmark.renderer.latex]
+    enabled = true
 
 #index.html
 
