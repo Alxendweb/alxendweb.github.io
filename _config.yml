@@ -12,3 +12,5 @@ permalink:           pretty
 # Gems
 plugins:
   - jekyll-paginate
+kramdown:
+  math_engine: mathjax
