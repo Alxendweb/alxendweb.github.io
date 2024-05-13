@@ -7,10 +7,13 @@ url:                 saiwang-neo.github.io
 paginate:            1
 permalink:           pretty
 
+kramdown:
+  math_engine: mathjax
+
+
 #index.html
 
 # Gems
 plugins:
   - jekyll-paginate
-kramdown:
-  math_engine: mathjax
+
