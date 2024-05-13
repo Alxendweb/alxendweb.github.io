@@ -4,16 +4,20 @@ title: Research Statement
 ---
 ### Research Experiences
 ---
-**2024: Large Language Model, Efficient AI**<br>
-Technologies: pruning, knowledge distillation, quantization, and more for optimizing model size, inference speed, and resource utilization in AI systems.
-**2022: Nonlinear convex optimization, Variational analysis**<br>
-Solving real-variable and complex-variable convex problems by using the proximal point algorithm, primal-dual method, and ADMM. These methods can achieve an O(1/t) convergence rate.
-**2019: Edge-cloud network and federated learning, Task offloading, and resource allocation**<br>
-Aiming to reduce latency, energy consumption, and training error by optimizing task offloading, transmit power, number of epochs, and data allocation.
-**2017: Underwater Wireless sensor network, Clustering algorithm**<br>
-In underwater wireless sensor networks, an energy-efficient clustering algorithm based on the Voronoi diagram is proposed for magnetic induction communications.
-**2016: Wireless sensor network, Path planning**<br>
-Reducing latency and energy consumption by designing the optimal path for UAVs.
+**2024: Large Language Model, Efficient AI**<be>
+> Technologies: pruning, knowledge distillation, quantization, and more for optimizing model size, inference speed, and resource utilization in AI systems.
+
+**2022: Nonlinear convex optimization, Variational analysis**<be>
+> Solving real-variable and complex-variable convex problems by using the proximal point algorithm, primal-dual method, and ADMM. These methods can achieve an O(1/t) convergence rate.
+
+**2019: Edge-cloud network and federated learning, Task offloading, and resource allocation**<be>
+>Aiming to reduce latency, energy consumption, and training error by optimizing task offloading, transmit power, number of epochs, and data allocation.
+
+**2017: Underwater Wireless sensor network, Clustering algorithm**<be>
+>In underwater wireless sensor networks, an energy-efficient clustering algorithm based on the Voronoi diagram is proposed for magnetic induction communications.
+
+**2016: Wireless sensor network, Path planning**<be>
+>Reducing latency and energy consumption by designing the optimal path for UAVs.
 
 ### Summary of nonlinear optimization
 ---
