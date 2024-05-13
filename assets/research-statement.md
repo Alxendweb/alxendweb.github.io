@@ -19,10 +19,17 @@ title: Research Statement
 **2016: Wireless sensor network, Path planning**<br>
 >Reducing latency and energy consumption by designing the optimal path for UAVs.
 
+
+
+
+
+
+
 ### Summary of nonlinear optimization
 ---
 **The convex optimization problem with nonlinear inequality constraints**:<br>
-$ \min $ $ \{ f(\mathbf{x}) \phi_{i}(\mathbf{x}) \leq 0, \mathbf{x} \in \mathcal{X}, i=1,\cdots,m, \} $
+
+$ \min $ ghghffghh $ \{ f(\mathbf{x}) \phi_{i}(\mathbf{x}) \leq 0, \mathbf{x} \in \mathcal{X}, i=1,\cdots,m, \} $
 where $\mathcal{X} \in \mathbb{R}^{n}$ is a nonempty closed convex set, $f: \mathbb{R}^{n} \rightarrow \mathbb{R}$ and $\phi_{i}: \mathbb{R}^{n} \rightarrow \mathbb{R} \ (i=1,\ldots,m)$ are proper and closed convex functions, and $\phi_{i} \ (i=1,\ldots,m)$ are continuously differentiable.
 
 **The saddle-point problem with a nonlinear coupling operator**:<br>
