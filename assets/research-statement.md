@@ -4,24 +4,24 @@ title: Research Statement
 ---
 ### Research Experiences
 ---
-**2024: Large Language Model, Efficient AI**<be>
+**2024: Large Language Model, Efficient AI**<br>
 > Technologies: pruning, knowledge distillation, quantization, and more for optimizing model size, inference speed, and resource utilization in AI systems.
 
-**2022: Nonlinear convex optimization, Variational analysis**<be>
+**2022: Nonlinear convex optimization, Variational analysis**<br>
 > Solving real-variable and complex-variable convex problems by using the proximal point algorithm, primal-dual method, and ADMM. These methods can achieve an O(1/t) convergence rate.
 
-**2019: Edge-cloud network and federated learning, Task offloading, and resource allocation**<be>
+**2019: Edge-cloud network and federated learning, Task offloading, and resource allocation**<br>
 >Aiming to reduce latency, energy consumption, and training error by optimizing task offloading, transmit power, number of epochs, and data allocation.
 
-**2017: Underwater Wireless sensor network, Clustering algorithm**<be>
+**2017: Underwater Wireless sensor network, Clustering algorithm**<br>
 >In underwater wireless sensor networks, an energy-efficient clustering algorithm based on the Voronoi diagram is proposed for magnetic induction communications.
 
-**2016: Wireless sensor network, Path planning**<be>
+**2016: Wireless sensor network, Path planning**<br>
 >Reducing latency and energy consumption by designing the optimal path for UAVs.
 
 ### Summary of nonlinear optimization
 ---
-The convex optimization problem with nonlinear inequality constraints:
+**The convex optimization problem with nonlinear inequality constraints**:<br>
 $$
 \begin{aligned}
 \min\left{ f(\mathbf{x}) \mid \phi_{i}(\mathbf{x}) \leq 0, \mathbf{x} \in \mathcal{X}, i=1,\cdots,m\right}
@@ -29,14 +29,14 @@ $$
 $$
 where $\mathcal{X} \in \mathbb{R}^{n}$ is a nonempty closed convex set, $f: \mathbb{R}^{n} \rightarrow \mathbb{R}$ and $\phi_{i}: \mathbb{R}^{n} \rightarrow \mathbb{R} \ (i=1,\ldots,m)$ are proper and closed convex functions, and $\phi_{i} \ (i=1,\ldots,m)$ are continuously differentiable.
 
-The saddle-point problem with a nonlinear coupling operator:
+**The saddle-point problem with a nonlinear coupling operator**:<br>
 
 $$
 \min_{\mathbf{x} \in \mathcal{X}} \max_{\mathbf{y} \in \mathcal{Y}} \mathcal{L}(\mathbf{x}, \mathbf{y}) := f(\mathbf{x}) + \langle\mathbf{y}, \boldsymbol{\Phi}(\mathbf{x})\rangle - g(\mathbf{y})\tag{2}
 $$
 where $\mathcal{X} \subseteq \mathbb{R}^{n}$ and $\mathcal{Y} \subseteq \mathbb{R}^{m}$ are two closed convex sets. $f: \mathcal{X} \rightarrow \mathbb{R}$ and $g: \mathcal{Y} \rightarrow \mathbb{R}$ are two proper convex but not necessarily smooth functions. The nonlinear function $\boldsymbol{\Phi}: \mathbb{R}^{n} \rightarrow \mathbb{R}^{m}$ is both convex and continuously differentiable over $\mathcal{X}$.
 
-The convex complex-variable matrix optimization problem:
+**The convex complex-variable matrix optimization problem**:<br>
 
 $$
 \begin{aligned}
@@ -45,7 +45,7 @@ $$
 $$
 where $\mathcal{X} \subseteq \mathbb{C}^{m \times n}$ is a convex set and objective $f: \mathbb{C}^{m \times n} \rightarrow \mathbb{R}$ is convex. Constraint functions $\phi_{i}: \mathbb{C}^{m \times n} \rightarrow \mathbb{R} \ (i=1,\cdots,p)$ are convex and differentiable over $\mathcal{X}$.
 
-The separable convex optimization problem with nonlinear inequality constraints:
+**The separable convex optimization problem with nonlinear inequality constraints**:<br>
 
 $$
 \begin{aligned}
