@@ -7,8 +7,9 @@ url:                 saiwang-neo.github.io
 paginate:            1
 permalink:           pretty
 
-
-math_engine: mathjax
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
 
 #index.html
 
