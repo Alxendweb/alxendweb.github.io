@@ -137,7 +137,6 @@ h1, h2, h3, h4, h5, h6 {
   height: 150px; /* 保持图片高度自适应 */
   border-radius: 50%;
   margin-right: 20px; /* 右侧留出一定的间距 */
-  margin-top: -5px; /* 设置图片距离顶部的间隔为0px */
 }
 
 .text-content {
