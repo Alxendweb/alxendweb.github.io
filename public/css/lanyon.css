@@ -145,6 +145,12 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5; /* 控制行高 */
 }
 
+
+.aligned-text {
+    text-align: justify; /* 或者其它对齐方式如 left、right、center */
+}
+
+
 /*
  * Sidebar
  *
