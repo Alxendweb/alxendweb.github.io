@@ -21,7 +21,7 @@ title: Research Statement
 
 
 
-<span style="font-size: 0.8em;">  </span>
+
 
 
 
@@ -31,7 +31,7 @@ title: Research Statement
 **The convex optimization problem with nonlinear inequality constraints**:<br>
 <span style="font-size: 0.8em;">  \begin{equation}
 \begin{aligned}\min \\{ f(\mathbf{x}) \mid \phi_{i}(\mathbf{x}) \leq 0, \mathbf{x} \in \mathcal{X}, i=1,\cdots,m \\}, \end{aligned}
-\end{equation} </span>
+\end{equation} 
 where $$\mathcal{X} \in \mathbb{R}^{n}$$ is a nonempty closed convex set, $$f: \mathbb{R}^{n} \rightarrow \mathbb{R}$$ and $$\phi_{i}: \mathbb{R}^{n} \rightarrow \mathbb{R} \ (i=1,\ldots,m)$$ are proper and closed convex functions, and $$\phi_{i} \ (i=1,\ldots,m)$$ are continuously differentiable.
 
 ---
@@ -55,6 +55,6 @@ where $$\mathcal{X} \subseteq \mathbb{C}^{m \times n}$$ is a convex set and obje
 \min\\{ f(\mathbf{x}) + g(\mathbf{y}) \mid \phi_{i}(\mathbf{x}) + \psi_{i}(\mathbf{y}) \leq 0, \mathbf{x} \in \mathcal{X},\\ \mathbf{y} \in \mathcal{Y}, i=1,\cdots,p\\},
 \end{aligned}
 \end{equation}
-where $$\mathcal{X} \in \mathbb{R}^{n}$$ and $$\mathcal{Y} \in \mathbb{R}^{m}$$ are two nonempty closed convex sets, $$f: \mathbb{R}^{n} \rightarrow \mathbb{R}$$, $$\phi_{i}: \mathbb{R}^{n} \rightarrow \mathbb{R} \ (i=1,\ldots,p)$$, $$g: \mathbb{R}^{m} \rightarrow \mathbb{R}$$ and $$\psi_{i}: \mathbb{R}^{m} \rightarrow \mathbb{R} \ (i=1,\ldots,p)$$ are proper and closed convex functions, and $$\phi_{i}, \psi_{i} \ (i=1,\ldots,p)$$ are continuously differentiable.
+where $$\mathcal{X} \in \mathbb{R}^{n}$$ and $$\mathcal{Y} \in \mathbb{R}^{m}$$ are two nonempty closed convex sets, $$f: \mathbb{R}^{n} \rightarrow \mathbb{R}$$, $$\phi_{i}: \mathbb{R}^{n} \rightarrow \mathbb{R} \ (i=1,\ldots,p)$$, $$g: \mathbb{R}^{m} \rightarrow \mathbb{R}$$ and $$\psi_{i}: \mathbb{R}^{m} \rightarrow \mathbb{R} \ (i=1,\ldots,p)$$ are proper and closed convex functions, and $$\phi_{i}, \psi_{i} \ (i=1,\ldots,p)$$ are continuously differentiable. </span>
 
 
